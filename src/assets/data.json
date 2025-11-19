@@ -179,7 +179,7 @@
   },
   {
     "name": "Idol Complex",
-    "domain": "idol.sankakucomplex.com",
+    "domain": "iapi.sankakucomplex.com",
     "search": "en/?tags=$1",
     "nsfw": true,
     "category": "interest"
@@ -349,7 +349,7 @@
   {
     "name": "Sankaku Channel",
     "domain": "chan.sankakucomplex.com",
-    "search": "en/posts?tags=cat",
+    "search": "en/posts?tags=$1",
     "nsfw": true,
     "category": "anime"
   },
